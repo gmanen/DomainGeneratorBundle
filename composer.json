@@ -1,0 +1,12 @@
+{
+  "name": "wakeonweb/domain-generator-bundle",
+  "type": "symfony-bundle",
+  "autoload": {
+    "psr-4": { "WakeOnWeb\\DomainGeneratorBundle\\": "src/" }
+  },
+  "require": {
+    "php": ">=7.0",
+    "symfony/maker-bundle": "^1.0@dev"
+  },
+  "minimum-stability": "dev"
+}
